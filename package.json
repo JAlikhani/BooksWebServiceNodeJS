@@ -1,0 +1,19 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "a simple server which return name of some famous books",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "books",
+    "node.js"
+  ],
+  "author": "J.Alikhani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

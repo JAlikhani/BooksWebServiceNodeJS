@@ -1,0 +1,28 @@
+{
+   "book": [
+	
+      {
+         "id":"01",
+         "title": "In Search of Lost Time",
+         "author": "Marcel Proust"
+      },
+	
+      {
+         "id":"02",
+         "title": "Moby Dick",
+         "author": "Herman Melville"
+      },
+      
+      {
+         "id":"03",
+         "title": "Hamlet",
+         "author": "William Shakespeare"
+      },
+      
+      {
+         "id":"04",
+         "title": "The Odyssey",
+         "author": "Homer"
+      }
+   ]
+}
